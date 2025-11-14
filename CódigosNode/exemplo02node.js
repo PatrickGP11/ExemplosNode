@@ -1,0 +1,6 @@
+console.log("---Dados Cadastrais---")
+console.log("Nome: Patrick Gonçalves Pinheiro")
+console.log("Data Nascimento: 11/08/06")
+console.log("Email: patrickgonsalves06@gmail.com")
+console.log("Aula de Node com Banco de Dados")
+console.log("Formação: ADS")
